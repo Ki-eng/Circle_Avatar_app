@@ -1,16 +1,20 @@
-# circle_avatar_app
+# Flutter Circle Avatar Display App
 
-A new Flutter project.
+A Flutter app that demonstrates the use of the `CircleAvatar` widget to display a circular image.
 
-## Getting Started
+## 📋 Features
 
-This project is a starting point for a Flutter application.
+- Displays a circular image using the `CircleAvatar` widget.
+- Centers the `CircleAvatar` on the screen.
+- Loads the image from the app's assets.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Framework**  
+- **Dart Programming Language**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-circle-avatar-app.git
