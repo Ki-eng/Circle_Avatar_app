@@ -1,7 +1,3 @@
-# Flutter Circle Avatar Display App
-
-A Flutter app that demonstrates the use of the `CircleAvatar` widget to display a circular image.
-
 ## 📋 Features
 
 - Displays a circular image using the `CircleAvatar` widget.
